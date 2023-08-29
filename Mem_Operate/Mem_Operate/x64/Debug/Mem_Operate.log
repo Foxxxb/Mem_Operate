@@ -1,0 +1,5 @@
+﻿  Mem_Operate.cpp
+E:\Projects\C++\Mem_Operate\Mem_Operate\Mem_Operate.cpp(79,37): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+E:\Projects\C++\Mem_Operate\Mem_Operate\Mem_Operate.cpp(134,37): warning C4312: “类型强制转换”: 从“const unsigned long”转换到更大的“LPVOID”
+E:\Projects\C++\Mem_Operate\Mem_Operate\Mem_Operate.cpp(149,40): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+  Mem_Operate.vcxproj -> E:\Projects\C++\Mem_Operate\x64\Debug\Mem_Operate.exe
